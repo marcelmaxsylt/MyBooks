@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">My Books</string>
+    <string name="string_search">Search</string>
+
+    <!-- Text to display in the list when there are no earthquakes [CHAR LIMIT=NONE] -->
+    <string name="no_books">No books found.</string>
+
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+    !-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">Book Settings</string>
+
+
+    <!-- Strings For Minimum Books Preference [CHAR LIMIT=30] -->
+    <string name="settings_min_books_label">Minimum books</string>
+    <string name="settings_min_books_key" translatable="false">min_books</string>
+    <string name="settings_min_books_default" translatable="false">6</string>
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_books_value</string>
+
+    <!-- Label for order-by magnitude option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_books_label">Books</string>
+    <string name="settings_order_by_books_value" translatable="false">books</string>
+
+    <!-- Label for order-by most recent option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_most_recent_label">Most Recent</string>
+    <string name="settings_order_by_most_recent_value" translatable="false">time</string>
+
+
+
+    <!-- Strings For query Preference [CHAR LIMIT=30] -->
+    <string name="settings_query_label">Query</string>
+    <string name="settings_query_key" translatable="false">query</string>
+    <string name="settings_query_default" translatable="false">@string/settings_query_value</string>
+
+    <!-- Label for query option [CHAR LIMIT=20] -->
+    <string name="settings_query_value" translatable="false">query</string>
+</resources>

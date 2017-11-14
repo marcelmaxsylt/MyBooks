@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Books</string>
+    <string name="string_search">Suchen</string>
+    <string name="no_internet_connection">Keine Internetverbindung.</string>
+    <string name="settings_min_books_label">Mindestanzahl Bücher</string>
+    <string name="settings_order_by_books_label">Bücher</string>
+    <string name="settings_order_by_label">Sortieren nach</string>
+    <string name="settings_order_by_most_recent_label">Am Neusten</string>
+    <string name="no_books">Keine Bücher gefunden.</string>
+    <string name="settings_menu_item">Einstellungen</string>
+    <string name="settings_title">Bücher Einstellungen</string>
+    <string name="settings_query_label">Anfrage</string>
+</resources>
